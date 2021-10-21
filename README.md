@@ -24,3 +24,7 @@
 
 - Feel free to help to improve this tool.
 - Inform if you face any problem.
+
+Uses https://github.com/antoinebollengier/lyrics_finder for the lyrics and megalobiz.com for the lyrics database.
+
+
