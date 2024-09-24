@@ -14,7 +14,7 @@
     "html-entities": "^2.3.3",
     "jssoup": "^0.0.15",
     "minimist": "^1.2.6",
-    "node-id3": "^0.2.3",
+    "node-id3": "^0.2.6",
     "node-itunes-search": "^1.2.3",
     "progress": "^2.0.3",
     "request": "^2.88.2"
